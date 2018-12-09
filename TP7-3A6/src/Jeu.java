@@ -1,5 +1,5 @@
 /**
- * Auteurs : TODO et Soti
+ * Auteurs : Jean-Sébastien Beaulne, Maxime Déry et Soti
  * Fichier : Jeu.java
  * Cours   : 420-3A6-MO (TP7, Affectation Joueurs, Avatars)
  * Date    : 12 décembre 2018
