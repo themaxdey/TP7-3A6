@@ -25,7 +25,6 @@ public class Joueur implements Comparable<Joueur>, Serializable {
 	private String noJoueur; // Sert de clé.
 	private String nomJoueur;
 	private String force;
-
 	/**
 	 * Le constructeur Joueur() permet de construire un joueur de base.
 	 */
